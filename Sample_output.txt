@@ -1,0 +1,8 @@
+	 Invoice Detail
+
+Date: 		03/19/2018
+Name: 		Ashna Shah
+College: 	University of Houston Sugarland
+Project: 	Pink Answer Sheets
+Unique Code: 	3PShah03192018
+Amount: 	240$
